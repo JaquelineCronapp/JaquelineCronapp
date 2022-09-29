@@ -9,8 +9,7 @@ Sou front-end do CRONAPP, atuo na manutenção e criação de componentes, bloco
 💬 Caso queira entrar em contato comigo, deixo abaixo os meus contatos pessoais:
 
 <div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-   <a href="https://api.whatsapp.com/send?phone=5547984483109" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:peixer.jaqueline@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
