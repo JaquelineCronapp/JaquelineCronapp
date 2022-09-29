@@ -18,7 +18,7 @@ Sou front-end do CRONAPP, atuo na manutenção e criação de componentes, bloco
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaquelineCronapp&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineCronapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineCronapp&layout=compact)
 
 
 ![GitHub Visitor](https://visitor-badge.glitch.me/badge?page_id=JaquelineCronapp)
